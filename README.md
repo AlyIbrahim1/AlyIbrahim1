@@ -41,7 +41,7 @@
 
 ## 💬 A bit about me
 
-I'm based in Egypt, and I learn best by building things that actually matter. I'm interested in the intersection of **AI tooling, systems thinking, and practical software** — the kind of stuff that makes ideas useful in the real world.
+I'm based in Egypt, and I learn best by building things that actually matter. I'm interested in the intersection of **AI tooling, systems thinking, and practical software** — the kind of stuff that solves a real problem for a real person.
 
 I'm early in the journey, but I'm building in public and figuring it out as I go.
 
