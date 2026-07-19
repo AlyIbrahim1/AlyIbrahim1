@@ -41,18 +41,18 @@
 
 ## 💬 A bit about me
 
-I'm based in Egypt, and I learn best by building things that actually matter. I'm interested in the intersection of **AI tooling, systems thinking, and practical software** — the kind of stuff that solves a real problem for a real person.
+I'm based in Egypt, and I learn best by building things that actually matter. I'm interested in the intersection of **AI tooling, systems thinking, and practical software** — the kind of stuff that makes ideas useful in the real world.
 
 I'm early in the journey, but I'm building in public and figuring it out as I go.
 
 ---
 
-<div align="center">
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlyIbrahim1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlyIbrahim1&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlyIbrahim1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aly's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlyIbrahim1&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
+</p>
 
 ---
 
